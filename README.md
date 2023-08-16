@@ -1,5 +1,6 @@
 ### Hi there I am Pallab Majumdar.Currently working as a Tarine Software Engineer(MERN) at BJIT Academy👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70E0E&center=true&vCenter=true&height=40&lines=Competiive+Programmer;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭I'm currently working on a E-Commerce project.<br>👯I'm looking to collaborate on Full Stack Development<br>🌱I'm currently learning Full Stack Development(MERN)<br>💬Ask me about JS,TS,ReactJs,NextJs,NodeJs,ExpressJs<br>📫How to reach me : pallab.majumdar@bjitacademy.com
