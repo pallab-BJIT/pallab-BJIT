@@ -19,7 +19,7 @@ I'm currently learning ReactJS, NodeJS,ExpressJS and MongoDB to improve my devel
 - <b>Topics : </b> Software Development,Web Development,Competetive Programming, Git/GitHub.
 - <b>Technologies : </b>NextJS, ReactJS,ReduxJS NodeJS, ExpressJS,MySQL, MongoDB, HTML, CSS.
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me </h2>
 <p align="left">
 <a href="www.linkedin.com/in/pallab-majumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uks1977" height="30" width="40" /></a>
 <a href="https://www.facebook.com/pallab.majumdar.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uksaha" height="30" width="40" /></a>
