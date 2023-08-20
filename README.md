@@ -29,7 +29,7 @@ I'm currently learning ReactJS, NodeJS,ExpressJS and MongoDB to improve my devel
 
 <li>
 <a href="https://linkedin.com/in/pallab-majumdar-a4a91714a/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  pallab-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
