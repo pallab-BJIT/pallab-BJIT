@@ -1,9 +1,9 @@
 ![](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=2000&t=st=1692281384~exp=1692281984~hmac=41f0592a31232aa1e29b4bf409b354898c5de669e0a0f1476c6354447f130caa)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70E0E&center=true&vCenter=true&height=40&lines=Competiive+Programmer;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70E0E&center=true&vCenter=true&height=40&lines=Competitive+Programmer;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
 <h1>Hi there, I'm Pallab Majumdar 👋</h1>
-<h3 align="left">Traine Software Engineer(MERN) at BJIT Academy</h3>
+<h3 align="left">Trainee Software Engineer(MERN) at BJIT Academy</h3>
 I'm a passionate Full Stack Web Developer from Bangladesh with experience in building web applications using NextJS, ReactJS, ReduxJS, NodeJS, ExpressJS, HTML, CSS, MySQL, MongoDB, etc. I have a strong foundation in coding, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
 
 ## 👨🏽‍💻 What I'm working on
