@@ -5,6 +5,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Trainee+Software+Engineer+@BJIT+Academy;Competitive+Programmer"></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1>Hi there, I'm Pallab Majumdar 👋</h1>
 <h3 align="left">Trainee Software Engineer(MERN) at BJIT Academy</h3>
 I'm a passionate Full Stack Web Developer from Bangladesh with experience in building web applications using NextJS, ReactJS, ReduxJS, NodeJS, ExpressJS, HTML, CSS, MySQL, MongoDB, etc. I have a strong foundation in coding, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
@@ -19,7 +21,7 @@ I'm currently learning ReactJS, NodeJS,ExpressJS and MongoDB to improve my devel
 - <b>Topics : </b> Software Development,Web Development,Competetive Programming, Git/GitHub.
 - <b>Technologies : </b>NextJS, ReactJS,ReduxJS NodeJS, ExpressJS,MySQL, MongoDB, HTML, CSS.
 
-<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me </h2>
+<h2>Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="www.linkedin.com/in/pallab-majumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uks1977" height="30" width="40" /></a>
 <a href="https://www.facebook.com/pallab.majumdar.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uksaha" height="30" width="40" /></a>
@@ -43,9 +45,19 @@ I'm currently learning ReactJS, NodeJS,ExpressJS and MongoDB to improve my devel
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallab-BJIT&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pallab-BJIT&theme=2077&utcOffset=8)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## 💻 Work Experience
+- BJIT Academy, [Trainee Software Engineer], [Aug,2023 - present]<br />
+  Technologies used: [HTML, CSS, JS, ReactJS, NodeJS, ExpressJS, MongoDB].
+- 6SenseHQ, [Frontend Developer Intern], [March 2023 - April, 2023]<br />
+  Worked on a client project developed for the Ev-Industry using latest technologies like Typescript, NextJS, ReduxJS, AntDesign and etc.I was a great experience for me. Learned a lot of things. The work was so challenging. Technologies used: [Javascript, Typescript, NextJS, ReduxJS, AntDesign].
 
+## 🎓 Education
+- Bangladesh University of Business & Technology , [Bsc in Computer Science ], [April, 2023]
+  
+## 💻 Coding Contest Participation Record
+- [BUBT programming contest], [4th], [2022]
+- [BUBT programming Camp contest], [2nd], [2019]
+- [Codechef Round], [26], [2022]
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
