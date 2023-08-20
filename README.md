@@ -1,6 +1,9 @@
 ![](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=2000&t=st=1692281384~exp=1692281984~hmac=41f0592a31232aa1e29b4bf409b354898c5de669e0a0f1476c6354447f130caa)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70E0E&center=true&vCenter=true&height=40&lines=Competitive+Programmer;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Trainee+Software+Engineer+@BJIT+Academy;Competitive+Programmer"></a>
+</p>
 
 <h1>Hi there, I'm Pallab Majumdar 👋</h1>
 <h3 align="left">Trainee Software Engineer(MERN) at BJIT Academy</h3>
@@ -16,7 +19,7 @@ I'm currently learning ReactJS, NodeJS,ExpressJS and MongoDB to improve my devel
 - <b>Topics : </b> Software Development,Web Development,Competetive Programming, Git/GitHub.
 - <b>Technologies : </b>NextJS, ReactJS,ReduxJS NodeJS, ExpressJS,MySQL, MongoDB, HTML, CSS.
 
-## 📫 How to reach me
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="www.linkedin.com/in/pallab-majumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uks1977" height="30" width="40" /></a>
 <a href="https://www.facebook.com/pallab.majumdar.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uksaha" height="30" width="40" /></a>
