@@ -22,11 +22,40 @@ I'm currently learning ReactJS, NodeJS,ExpressJS and MongoDB to improve my devel
 - <b>Technologies : </b>NextJS, ReactJS,ReduxJS NodeJS, ExpressJS,MySQL, MongoDB, HTML, CSS.
 
 <h2>Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align="left">
-<a href="www.linkedin.com/in/pallab-majumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uks1977" height="30" width="40" /></a>
-<a href="https://www.facebook.com/pallab.majumdar.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uksaha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pallab.majumdar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uksaha" height="30" width="40" /></a>
-</p><br/>
+
+<div align='left'>
+
+<ul style="list-style-type: none">
+
+<li>
+<a href="https://linkedin.com/in/pallab-majumdar-a4a91714a/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  pallab-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li >
+<a href="https://facebook.com/pallab.majumdar.99" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" alt=facebook style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+<li>
+<a href="https://instagram.com/pallab.majumdar/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+<br>
+<li>
+<a href="mailto:pallab.majumdar@bjitacademy.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
 
 ### 🧑‍💻Competitive Programming Profile:
 [![codeforces](https://img.shields.io/badge/codeforces-1c97d3?logo=codeforces&logoColor=white)](https://codeforces.com/profile/_pallab_99) [![codeforces](https://img.shields.io/badge/Uva%20Online%20Judge-c31756?logo=uvaonlinejudge&logoColor=white)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15)  [![Leetcode](https://img.shields.io/badge/Leetcode-ff8a00?logo=leetcode&logoColor=white)](https://leetcode.com/pallab1999/) [![Codechef-](https://img.shields.io/badge/Codechef-be6530?logo=codechef&logoColor=white)](https://www.codechef.com/users/pallab99)<br/>
