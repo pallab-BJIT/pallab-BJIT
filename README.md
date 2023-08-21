@@ -49,6 +49,12 @@ I'm currently learning ReactJS, NodeJS,ExpressJS and MongoDB to improve my devel
 </li>
 <br>
 <li>
+<a href="https://pallab99.github.io/Portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+<br>
+<li>
 <a href="mailto:pallab.majumdar@bjitacademy.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
